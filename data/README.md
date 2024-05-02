@@ -1,4 +1,4 @@
-# Educational attainment and Health Insurance Coverage of Women in Urban and Rural areas of Nigeria
+# Educational Attainment and Health Insurance Coverage of Women in Urban and Rural areas of Nigeria
 
 # John Adeleke 
 
